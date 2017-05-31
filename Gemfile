@@ -32,9 +32,12 @@ gem 'jbuilder', '~> 2.5'
 
 # Friendly ID Gem
 gem 'friendly_id', '~> 5.1.0'
-
 # Devise
 gem 'devise', '~> 4.3'
+# Bootstrap 4
+gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
+# jquery-rails
+gem 'jquery-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
