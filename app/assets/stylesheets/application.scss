@@ -42,7 +42,7 @@ body {
   display: table;
   width: 100%;
   height: 100%; /* For at least Firefox */
-  min-height: 100%;
+  min-height: 120%;
   -webkit-box-shadow: inset 0 0 5rem rgba(0,0,0,.5);
           box-shadow: inset 0 0 5rem rgba(0,0,0,.5);
 }
@@ -159,4 +159,22 @@ body {
   .cover-container {
     width: 55rem;
   }
+}
+
+/*
+ * Custom Styles
+ */
+
+.card-block {
+  color: #000;
+  text-align: left;
+}
+
+.s-wrap {
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.auth-links a {
+  color: #000;
 }
