@@ -38,6 +38,8 @@ gem 'devise', '~> 4.3'
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
 # jquery-rails
 gem 'jquery-rails'
+# jquery-ui-rails
+gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 # Petergate
 gem 'petergate', '~> 1.7', '>= 1.7.5'
 # Font Awesome Rails
