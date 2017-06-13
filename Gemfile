@@ -46,6 +46,14 @@ gem 'petergate', '~> 1.7', '>= 1.7.5'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
 # Kaminari
 gem 'kaminari', '~> 1.0', '>= 1.0.1'
+# Dotenv-Rails
+gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
+# Carrierwave
+gem 'carrierwave', '~> 1.1'
+# Mini_Magick
+gem 'mini_magick', '~> 4.7'
+# Carrierwave-AWS
+gem 'carrierwave-aws', '~> 1.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
