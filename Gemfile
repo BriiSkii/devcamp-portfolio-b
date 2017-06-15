@@ -58,6 +58,8 @@ gem 'carrierwave-aws', '~> 1.1'
 gem 'cocoon', '~> 1.2', '>= 1.2.10'
 # Gritter
 gem 'gritter', '~> 1.2'
+# Redis
+gem 'redis', '~> 3.3', '>= 3.3.3'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
