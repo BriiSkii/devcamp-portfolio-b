@@ -54,6 +54,8 @@ gem 'carrierwave', '~> 1.1'
 gem 'mini_magick', '~> 4.7'
 # Carrierwave-AWS
 gem 'carrierwave-aws', '~> 1.1'
+# Cocoon
+gem 'cocoon', '~> 1.2', '>= 1.2.10'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
