@@ -56,6 +56,8 @@ gem 'mini_magick', '~> 4.7'
 gem 'carrierwave-aws', '~> 1.1'
 # Cocoon
 gem 'cocoon', '~> 1.2', '>= 1.2.10'
+# Gritter
+gem 'gritter', '~> 1.2'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
